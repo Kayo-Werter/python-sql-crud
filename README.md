@@ -1,2 +1,3 @@
-# python-sql_ex02
- Exercício02 de análise de dados utilizando Python, SQL e Pandas
+# python-sql_CRUD
+ Exercício de CRUD utilizando Python, SQL.
+ 
